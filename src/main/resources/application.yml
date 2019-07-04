@@ -1,0 +1,7 @@
+server:
+  port: 9000
+  context-path: /sso
+
+spring:
+  mvc:
+    static-path-pattern: /**
